@@ -1,7 +1,7 @@
 module.exports = {
 
   /** @todo get rid of this by updating the `node-bugcatcher` package */
-  bugcatcherUri: "https://api.bugcatcher.fasterthanlight.dev/",
+  bugcatcherUri: "https://api.staging.bugcatcher.fasterthanlight.dev/",
   
   labels: {
     setup: {
