@@ -1,4 +1,4 @@
-const targetUrl = "https://staging.tiger.sohotokenlabs.com/results/:stlid"
+const targetUrl = "https://bugcatcher.fasterthanlight.dev/results/:stlid"
 const { labels, statusStates, statusSteps } = require('../config')
 
 const getRepoInfo = context => {
