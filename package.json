@@ -1,6 +1,6 @@
 {
   "name": "github-app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Faster Than Light Static Analysis and GitHub Continuous Integration",
   "author": "Reuven Etzion <retzion@gmail.com>",
   "license": "GPL-2.0",

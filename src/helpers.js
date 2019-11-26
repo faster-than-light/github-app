@@ -170,8 +170,8 @@ const statusResultsSuccess = (context) => {
 }
 
 const passesSeverity = (severity, min_severity) => {
-  levels = ['low', 'medium', 'high']
-  if (!levels.includes(severity)) return True
+  const levels = ['low', 'medium', 'high']
+  if (!levels.includes(severity)) return true
   severity = levels.indexOf(severity)
   min_severity = levels.indexOf(min_severity)
   return min_severity > severity
